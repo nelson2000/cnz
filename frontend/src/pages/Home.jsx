@@ -81,7 +81,7 @@ const Home = () => {
               <span className="text-sky-400">But we can.</span>
             </h2>
             <div className="flex flex-col sm:flex-row gap-4">
-              <Button className="bg-pink-600 hover:bg-pink-700 text-white px-8 py-6 text-lg">
+              <Button className="bg-sky-600 hover:bg-sky-700 text-white px-8 py-6 text-lg">
                 CONTACT US
               </Button>
               <Button variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-teal-600 px-8 py-6 text-lg">

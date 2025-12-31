@@ -57,7 +57,7 @@ const Home = () => {
             <a href="#services" className="text-gray-700 hover:text-teal-600 transition">SERVICES</a>
             <a href="#virtual-tour" className="text-gray-700 hover:text-teal-600 transition">VIRTUAL TOUR</a>
             <a href="#blog" className="text-gray-700 hover:text-teal-600 transition">BLOG</a>
-            <Button className="bg-pink-600 hover:bg-pink-700 text-white">CONTACT US</Button>
+            <Button className="bg-sky-600 hover:bg-sky-700 text-white">CONTACT US</Button>
           </nav>
         </div>
       </header>

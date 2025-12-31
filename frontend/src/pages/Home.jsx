@@ -78,7 +78,7 @@ const Home = () => {
             <h2 className="text-5xl font-bold mb-6 leading-tight">
               You can't always be there.
               <br />
-              <span className="text-teal-400">But we can.</span>
+              <span className="text-sky-400">But we can.</span>
             </h2>
             <div className="flex flex-col sm:flex-row gap-4">
               <Button className="bg-teal-600 hover:bg-teal-700 text-white px-8 py-6 text-lg">

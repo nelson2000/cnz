@@ -73,14 +73,6 @@ const Home = () => {
           <div className="absolute inset-0 bg-gradient-to-r from-black/50 to-black/30"></div>
         </div>
         
-        {/* Decorative Sky Blue Elements */}
-        <div className="absolute top-20 left-1/4 text-sky-400 text-8xl font-bold opacity-30 animate-pulse">1</div>
-        <div className="absolute top-32 left-1/3 text-sky-400 text-6xl font-bold opacity-40">2</div>
-        <div className="absolute top-48 left-[38%] text-sky-400 text-9xl font-bold opacity-30 animate-pulse">3</div>
-        <div className="absolute top-64 left-[35%] w-1 h-96 bg-sky-400 opacity-40 transform -rotate-12"></div>
-        <div className="absolute bottom-32 left-[20%] w-32 h-1 bg-sky-400 opacity-50"></div>
-        <div className="absolute bottom-20 left-[15%] w-48 h-2 bg-sky-400 opacity-40 rounded-full"></div>
-        
         <div className="relative z-10 max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-8 items-center">
           <div className="text-white">
             <h2 className="text-5xl font-bold mb-6 leading-tight">

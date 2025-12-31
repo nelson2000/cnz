@@ -147,7 +147,7 @@ const Home = () => {
       <section className="bg-sky-600 py-4">
         <div className="max-w-7xl mx-auto px-6 flex items-center justify-center space-x-2 text-white">
           <MapPin className="h-5 w-5" />
-          <span className="font-medium">HELPING HANDS RESIDENTIAL HOME CARE</span>
+          <span className="font-medium">CNZ HEALTHCARE SERVICES</span>
         </div>
       </section>
 

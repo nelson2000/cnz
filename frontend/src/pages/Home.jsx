@@ -327,7 +327,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-8">
             <p className="text-gray-400">
-              Copyright © 2023 - Helping Hands Residential Care Home. All rights reserved.
+              Copyright © 2023 - CNZ Healthcare Services. All rights reserved.
             </p>
           </div>
           <div className="grid md:grid-cols-3 gap-6 text-sm text-gray-400">

@@ -255,7 +255,7 @@ const Home = () => {
           <div className="text-center mb-12">
             <div className="h-1 w-20 bg-teal-500 mx-auto mb-4"></div>
             <h3 className="text-4xl font-bold text-teal-700 mb-4">
-              Why choose Helping Hands Residential Care Home?
+              Why choose CNZ Healthcare Services?
             </h3>
             <p className="text-gray-700 text-lg max-w-3xl mx-auto">
               We are committed to being your shoulder to lean on and providing honest advice for your loved one's situation during this delicate time.

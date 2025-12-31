@@ -42,14 +42,10 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-3">
             <img 
-              src="https://images.unsplash.com/photo-1762939079730-23708c0dd337?w=200&h=200&fit=crop" 
+              src="https://customer-assets.emergentagent.com/job_hands-help-copy/artifacts/p920vgl1_cnz-logo.png" 
               alt="CNZ Healthcare Services Logo" 
-              className="h-16 w-16 object-contain"
+              className="h-20 w-auto object-contain"
             />
-            <div>
-              <h1 className="text-xl font-semibold text-gray-800">CNZ HEALTHCARE</h1>
-              <p className="text-xs text-teal-600">SERVICES</p>
-            </div>
           </div>
           <nav className="hidden md:flex items-center space-x-8">
             <a href="#home" className="text-teal-600 font-medium hover:text-teal-700 transition">HOME</a>

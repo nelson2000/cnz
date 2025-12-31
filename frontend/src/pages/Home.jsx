@@ -161,7 +161,7 @@ const Home = () => {
                 Experience a Smooth and Stress-Free Transition with Us
               </h3>
               <p className="text-gray-700 text-lg">
-                Helping Hands Residential Care Home provides various programs with adaptable schedules and affordable service rates.
+                CNZ Healthcare Services provides various programs with adaptable schedules and affordable service rates.
               </p>
             </div>
             <Button className="bg-teal-600 hover:bg-teal-700 text-white px-8 py-6 text-lg mt-6 md:mt-0">

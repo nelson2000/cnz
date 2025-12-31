@@ -42,13 +42,13 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-3">
             <img 
-              src="https://i0.wp.com/www.helpinghandsrch.com/wp-content/uploads/2023/12/cropped-images-1-65836aebea726.webp?fit=512%2C512&ssl=1" 
-              alt="Helping Hands Logo" 
-              className="h-16 w-16"
+              src="https://images.unsplash.com/photo-1762939079730-23708c0dd337?w=200&h=200&fit=crop" 
+              alt="CNZ Healthcare Services Logo" 
+              className="h-16 w-16 object-contain"
             />
             <div>
-              <h1 className="text-xl font-semibold text-gray-800">HELPING HANDS</h1>
-              <p className="text-xs text-teal-600">RESIDENTIAL CARE HOME</p>
+              <h1 className="text-xl font-semibold text-gray-800">CNZ HEALTHCARE</h1>
+              <p className="text-xs text-teal-600">SERVICES</p>
             </div>
           </div>
           <nav className="hidden md:flex items-center space-x-8">
